@@ -203,24 +203,24 @@ MonoBehaviour:
     linkedCutscene: {fileID: 0}
     linkedAsset: {fileID: 0}
   isEnabled: 1
-  isAssetFile: 1
+  isAssetFile: 0
   isBreakPoint: 0
   nodeRect:
     serializedVersion: 2
-    x: 43
-    y: 831
+    x: 0
+    y: 0
     width: 300
-    height: 172.2
+    height: 60
   overrideColor: {r: 1, g: 1, b: 1, a: 1}
   showOutputSockets: 1
   parentActionListInEditor: {fileID: 0}
   constantID: 0
   parameterID: -1
   messageParameterID: -1
-  isPlayer: 1
+  isPlayer: 0
   playerID: -1
   speaker: {fileID: 0}
-  messageText: '[expression:shock]I''M A GENIUS!'
+  messageText: 
   lineID: -1
   multiLineIDs: 
   isBackground: 0
