@@ -82,7 +82,7 @@ MonoBehaviour:
   defaultMouseClicks: 1
   allowGameplayDuringConversations: 0
   shareInventory: 1
-  inventoryDragDrop: 1
+  inventoryDragDrop: 0
   dragDropThreshold: 0
   allowInventoryInteractionsDuringConversations: 0
   inventoryDropLook: 1
@@ -100,7 +100,7 @@ MonoBehaviour:
   canReorderItems: 0
   selectInventoryDisplay: 0
   rightClickInventory: 1
-  reverseInventoryCombinations: 1
+  reverseInventoryCombinations: 0
   canMoveWhenActive: 0
   selectInvWithUnhandled: 0
   selectInvWithIconID: 0
