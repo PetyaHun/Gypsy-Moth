@@ -173,7 +173,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 884813678089487220}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: -0.078, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 884813679015672098}
@@ -352,6 +352,7 @@ SpriteRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -655,6 +656,7 @@ MonoBehaviour:
   speechMenuPlacement: {fileID: 0}
   mapExpressionsToShapeable: 0
   expressionGroupID: 0
+  expressionTransitionTime: 0.2
   lipSyncBlendShapeSpeedFactor: 1
   isLipSyncing: 0
   phonemeParameter: 
@@ -749,6 +751,8 @@ MonoBehaviour:
   freezeRigidbodyWhenIdle: 0
   useRigidbodyForMovement: 1
   useRigidbody2DForMovement: 0
+  simulatedMass: 1
+  simulatedVerticalSpeed: 0
   doWallReduction: 0
   wallLayer: Default
   wallDistance: 0.5
