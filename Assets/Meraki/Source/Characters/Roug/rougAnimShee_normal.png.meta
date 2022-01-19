@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: 8a699fd5dc44a9c48a0624b6247c5bb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2291057928917963580
+    second: rougAnimShee_normal_0
+  - first:
+      213: 7801259305247826927
+    second: rougAnimShee_normal_1
+  - first:
+      213: -6576701764874060067
+    second: rougAnimShee_normal_2
+  - first:
+      213: -484127746865777989
+    second: rougAnimShee_normal_3
+  - first:
+      213: -7211301222900194021
+    second: rougAnimShee_normal_4
+  - first:
+      213: -8233015132938674247
+    second: rougAnimShee_normal_5
+  - first:
+      213: 4295237527185928292
+    second: rougAnimShee_normal_6
+  - first:
+      213: -371935251207111087
+    second: rougAnimShee_normal_7
+  - first:
+      213: -6061948270738703623
+    second: rougAnimShee_normal_8
+  - first:
+      213: -927524449951436461
+    second: rougAnimShee_normal_9
+  - first:
+      213: -3930473719202800650
+    second: rougAnimShee_normal_10
+  - first:
+      213: -3494530921943699418
+    second: rougAnimShee_normal_11
+  - first:
+      213: 8257476095633335909
+    second: rougAnimShee_normal_12
+  - first:
+      213: 3701846777913211856
+    second: rougAnimShee_normal_13
+  - first:
+      213: -4429314594267616721
+    second: rougAnimShee_normal_14
+  - first:
+      213: -1106467244143799436
+    second: rougAnimShee_normal_15
+  - first:
+      213: -6391135188766585489
+    second: rougAnimShee_normal_16
+  - first:
+      213: 5284586063462656512
+    second: rougAnimShee_normal_17
+  - first:
+      213: -1473244664018244412
+    second: rougAnimShee_normal_18
+  - first:
+      213: 5271724442246423956
+    second: rougAnimShee_normal_19
+  - first:
+      213: -4300739122543170818
+    second: rougAnimShee_normal_20
+  - first:
+      213: -1679145913609664991
+    second: rougAnimShee_normal_21
+  - first:
+      213: -6455901676262735806
+    second: rougAnimShee_normal_22
+  - first:
+      213: 488071265284480444
+    second: rougAnimShee_normal_23
+  - first:
+      213: 5322591836808166761
+    second: rougAnimShee_normal_24
+  - first:
+      213: -227502333421966694
+    second: rougAnimShee_normal_25
+  - first:
+      213: -3965631635449530104
+    second: rougAnimShee_normal_26
+  - first:
+      213: 7335375193551325746
+    second: rougAnimShee_normal_27
+  - first:
+      213: 4974338943219728026
+    second: rougAnimShee_normal_28
+  - first:
+      213: -3463503312326031121
+    second: rougAnimShee_normal_29
+  - first:
+      213: -8749205489358888242
+    second: rougAnimShee_normal_30
+  - first:
+      213: 7400404483519976197
+    second: rougAnimShee_normal_31
+  - first:
+      213: 4559186680894385955
+    second: rougAnimShee_normal_32
+  - first:
+      213: -3569117604862280962
+    second: rougAnimShee_normal_33
+  - first:
+      213: 3307199995840295587
+    second: rougAnimShee_normal_34
+  - first:
+      213: 6439658638500652981
+    second: rougAnimShee_normal_35
+  - first:
+      213: -2480190535754674020
+    second: rougAnimShee_normal_36
+  - first:
+      213: -4577976101761502399
+    second: rougAnimShee_normal_37
+  - first:
+      213: -3934314407398048401
+    second: rougAnimShee_normal_38
+  - first:
+      213: 2967746316164803195
+    second: rougAnimShee_normal_39
+  - first:
+      213: 4304119675645532750
+    second: rougAnimShee_normal_40
+  - first:
+      213: -6892653167792138840
+    second: rougAnimShee_normal_41
+  - first:
+      213: 5490316295159584388
+    second: rougAnimShee_normal_42
+  - first:
+      213: -6872996516745431729
+    second: rougAnimShee_normal_43
+  - first:
+      213: -47340251199530761
+    second: rougAnimShee_normal_44
+  - first:
+      213: 2294963432233403298
+    second: rougAnimShee_normal_45
+  - first:
+      213: 8538301744496802293
+    second: rougAnimShee_normal_46
+  - first:
+      213: -105989929780969576
+    second: rougAnimShee_normal_47
+  - first:
+      213: -8257339301644410120
+    second: rougAnimShee_normal_48
+  - first:
+      213: -6667296706260555064
+    second: rougAnimShee_normal_49
+  - first:
+      213: -8612070989147208136
+    second: rougAnimShee_normal_50
+  - first:
+      213: 4794754710634055034
+    second: rougAnimShee_normal_51
+  - first:
+      213: 3882064176076095521
+    second: rougAnimShee_normal_52
+  - first:
+      213: -3886503300646260683
+    second: rougAnimShee_normal_53
+  - first:
+      213: 8634293869048438628
+    second: rougAnimShee_normal_54
+  - first:
+      213: 4030806380190293858
+    second: rougAnimShee_normal_55
+  - first:
+      213: 2171601983380983478
+    second: rougAnimShee_normal_56
+  - first:
+      213: 7851869430494292532
+    second: rougAnimShee_normal_57
+  - first:
+      213: -3995890510004921340
+    second: rougAnimShee_normal_58
+  - first:
+      213: 9151856450838778367
+    second: rougAnimShee_normal_59
+  - first:
+      213: -252960851654714620
+    second: rougAnimShee_normal_60
+  - first:
+      213: 8200729978334819073
+    second: rougAnimShee_normal_61
+  - first:
+      213: 4120260075934866516
+    second: rougAnimShee_normal_62
+  - first:
+      213: -8632938295499915411
+    second: rougAnimShee_normal_63
+  - first:
+      213: -7500586592850147268
+    second: rougAnimShee_normal_64
+  - first:
+      213: -1589078972865584995
+    second: rougAnimShee_normal_65
+  - first:
+      213: 9065921659973970234
+    second: rougAnimShee_normal_66
+  - first:
+      213: -8860156607575903232
+    second: rougAnimShee_normal_67
+  - first:
+      213: 8021022979888754739
+    second: rougAnimShee_normal_68
+  - first:
+      213: -5945437647448818889
+    second: rougAnimShee_normal_69
+  - first:
+      213: -2639743492845068376
+    second: rougAnimShee_normal_70
+  - first:
+      213: 5292571032414363605
+    second: rougAnimShee_normal_71
+  - first:
+      213: -3890258891438871225
+    second: rougAnimShee_normal_72
+  - first:
+      213: -5748901845822173972
+    second: rougAnimShee_normal_73
+  - first:
+      213: 3202066635161026436
+    second: rougAnimShee_normal_0
+  - first:
+      213: -3011873445449686504
+    second: rougAnimShee_normal_1
+  - first:
+      213: 2571370900966769775
+    second: rougAnimShee_normal_2
+  - first:
+      213: 6657467061986720838
+    second: rougAnimShee_normal_3
+  - first:
+      213: 548142357399325241
+    second: rougAnimShee_normal_4
+  - first:
+      213: 225999326876597908
+    second: rougAnimShee_normal_5
+  - first:
+      213: 516341826044294278
+    second: rougAnimShee_normal_6
+  - first:
+      213: 871393006968811733
+    second: rougAnimShee_normal_7
+  - first:
+      213: -3994730686706344141
+    second: rougAnimShee_normal_8
+  - first:
+      213: -841498075581861057
+    second: rougAnimShee_normal_9
+  - first:
+      213: -8516677351671932907
+    second: rougAnimShee_normal_10
+  - first:
+      213: -1403515938139543216
+    second: rougAnimShee_normal_11
+  - first:
+      213: -5213550405087749217
+    second: rougAnimShee_normal_12
+  - first:
+      213: -4377266234440368043
+    second: rougAnimShee_normal_13
+  - first:
+      213: 2134041210996990499
+    second: rougAnimShee_normal_14
+  - first:
+      213: -8355522285902362504
+    second: rougAnimShee_normal_15
+  - first:
+      213: 2180956684913200934
+    second: rougAnimShee_normal_16
+  - first:
+      213: 5887272377908682617
+    second: rougAnimShee_normal_17
+  - first:
+      213: -1308875067760739694
+    second: rougAnimShee_normal_18
+  - first:
+      213: 7808740604726462089
+    second: rougAnimShee_normal_19
+  - first:
+      213: 516237167151660715
+    second: rougAnimShee_normal_20
+  - first:
+      213: 8247823052921785784
+    second: rougAnimShee_normal_21
+  - first:
+      213: -6704434935810065017
+    second: rougAnimShee_normal_22
+  - first:
+      213: 5574322218512338815
+    second: rougAnimShee_normal_23
+  - first:
+      213: 7479262488709216866
+    second: rougAnimShee_normal_24
+  - first:
+      213: 6962645334366905844
+    second: rougAnimShee_normal_25
+  - first:
+      213: 1525496549145023602
+    second: rougAnimShee_normal_26
+  - first:
+      213: -5569779324375194816
+    second: rougAnimShee_normal_27
+  - first:
+      213: 6171225800756059500
+    second: rougAnimShee_normal_28
+  - first:
+      213: 5181744775405127136
+    second: rougAnimShee_normal_29
+  - first:
+      213: 2162980270658069748
+    second: rougAnimShee_normal_30
+  - first:
+      213: -4984437409832786529
+    second: rougAnimShee_normal_31
+  - first:
+      213: -6944455095959605573
+    second: rougAnimShee_normal_32
+  - first:
+      213: -2105323164098349216
+    second: rougAnimShee_normal_33
+  - first:
+      213: -3948148932311514367
+    second: rougAnimShee_normal_34
+  - first:
+      213: 7609001775992101344
+    second: rougAnimShee_normal_35
+  - first:
+      213: -8494424609752061131
+    second: rougAnimShee_normal_36
+  - first:
+      213: 739217119799384892
+    second: rougAnimShee_normal_37
+  - first:
+      213: -5788977284515664724
+    second: rougAnimShee_normal_38
+  - first:
+      213: 1979760718855616785
+    second: rougAnimShee_normal_39
+  - first:
+      213: 8512397587908833204
+    second: rougAnimShee_normal_40
+  - first:
+      213: -5313595387866175214
+    second: rougAnimShee_normal_41
+  - first:
+      213: 1949793202575367527
+    second: rougAnimShee_normal_42
+  - first:
+      213: 2646583447011605210
+    second: rougAnimShee_normal_43
+  - first:
+      213: 1917247904024989489
+    second: rougAnimShee_normal_44
+  - first:
+      213: 7195464077469833628
+    second: rougAnimShee_normal_45
+  - first:
+      213: 6313333106400071359
+    second: rougAnimShee_normal_46
+  - first:
+      213: 8628318094528183250
+    second: rougAnimShee_normal_47
+  - first:
+      213: 5024926235681685662
+    second: rougAnimShee_normal_48
+  - first:
+      213: 8869799356282512968
+    second: rougAnimShee_normal_49
+  - first:
+      213: 3847643268208962519
+    second: rougAnimShee_normal_50
+  - first:
+      213: -3026080320485999767
+    second: rougAnimShee_normal_51
+  - first:
+      213: 538528866931339424
+    second: rougAnimShee_normal_52
+  - first:
+      213: 6649548847204112940
+    second: rougAnimShee_normal_53
+  - first:
+      213: 3299517427078185282
+    second: rougAnimShee_normal_54
+  - first:
+      213: 5980900254148645973
+    second: rougAnimShee_normal_55
+  - first:
+      213: -935120329821672577
+    second: rougAnimShee_normal_56
+  - first:
+      213: -2691703969605395151
+    second: rougAnimShee_normal_57
+  - first:
+      213: -3205219376322774835
+    second: rougAnimShee_normal_58
+  - first:
+      213: 7366306940166962496
+    second: rougAnimShee_normal_59
+  - first:
+      213: 1113122506691149785
+    second: rougAnimShee_normal_60
+  - first:
+      213: -2743171388029499236
+    second: rougAnimShee_normal_61
+  - first:
+      213: 7565071873085805338
+    second: rougAnimShee_normal_62
+  - first:
+      213: 2212947744175477840
+    second: rougAnimShee_normal_63
+  - first:
+      213: -3779070801984545491
+    second: rougAnimShee_normal_64
+  - first:
+      213: 4621343418573831348
+    second: rougAnimShee_normal_65
+  - first:
+      213: 7111612551323114730
+    second: rougAnimShee_normal_66
+  - first:
+      213: 1844976142754791073
+    second: rougAnimShee_normal_67
+  - first:
+      213: 4486341750262964533
+    second: rougAnimShee_normal_68
+  - first:
+      213: 1934391396933940277
+    second: rougAnimShee_normal_69
+  - first:
+      213: 1332469203283617455
+    second: rougAnimShee_normal_70
+  - first:
+      213: 7347383205494468831
+    second: rougAnimShee_normal_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rougAnimShee_normal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f37efa3a6007c20800000000000000
+      internalID: 3202066635161026436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8122a871f0da336d0800000000000000
+      internalID: -3011873445449686504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6486e1f5385fa320800000000000000
+      internalID: 2571370900966769775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cf4952503146c50800000000000000
+      internalID: 6657467061986720838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac123e1946b9700800000000000000
+      internalID: 548142357399325241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef4fdb039e22300800000000000000
+      internalID: 225999326876597908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684fb04b72a6a2700800000000000000
+      internalID: 516341826044294278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b220b25fc71c00800000000000000
+      internalID: 871393006968811733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f148dfa9ddf88c0800000000000000
+      internalID: -3994730686706344141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b4cd65f56254f0800000000000000
+      internalID: -841498075581861057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518dafa621faec980800000000000000
+      internalID: -8516677351671932907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059e79eb0b5b58ce0800000000000000
+      internalID: -1403515938139543216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9626778fb5a7b0800000000000000
+      internalID: -5213550405087749217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ced03d83d043c0800000000000000
+      internalID: -4377266234440368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322258dbc23ad9d10800000000000000
+      internalID: 2134041210996990499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8780eeb10c83b0c80800000000000000
+      internalID: -8355522285902362504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fc3cabc80544e10800000000000000
+      internalID: 2180956684913200934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f573d190bc3b150800000000000000
+      internalID: 5887272377908682617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a71c28f01f5dde0800000000000000
+      internalID: -1308875067760739694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986c3ef15383e5c60800000000000000
+      internalID: 7808740604726462089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baebde7e7fa0a2700800000000000000
+      internalID: 516237167151660715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd4ea72e57267270800000000000000
+      internalID: 8247823052921785784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d725f82ff05f2a0800000000000000
+      internalID: -6704434935810065017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fcef11688fb5d40800000000000000
+      internalID: 5574322218512338815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26aba6d4b9dabc760800000000000000
+      internalID: 7479262488709216866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f568fbba0940a060800000000000000
+      internalID: 6962645334366905844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2749fdd6707ab2510800000000000000
+      internalID: 1525496549145023602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0432d45e63b24b2b0800000000000000
+      internalID: -5569779324375194816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5ac25b2994a550800000000000000
+      internalID: 6171225800756059500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e542ce4b6149e740800000000000000
+      internalID: 5181744775405127136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a0c0a813740e10800000000000000
+      internalID: 2162980270658069748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95afbd9598b3dab0800000000000000
+      internalID: -4984437409832786529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2dae22e650af90800000000000000
+      internalID: -6944455095959605573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067348a9cb368c2e0800000000000000
+      internalID: -2105323164098349216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030c39d67b5539c0800000000000000
+      internalID: -3948148932311514367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e953511dca989960800000000000000
+      internalID: 7609001775992101344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b6464a2ddbd1a80800000000000000
+      internalID: -8494424609752061131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b978dcd0a324a00800000000000000
+      internalID: 739217119799384892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac63afb4db69afa0800000000000000
+      internalID: -5788977284515664724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11939a372e5897b10800000000000000
+      internalID: 1979760718855616785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfa23e618c122670800000000000000
+      internalID: 8512397587908833204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219251ab5215246b0800000000000000
+      internalID: -5313595387866175214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd9f8569e0f0b10800000000000000
+      internalID: 1949793202575367527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada3e837f9d8ab420800000000000000
+      internalID: 2646583447011605210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f85c98fce6b9a10800000000000000
+      internalID: 1917247904024989489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995cab847c6bd360800000000000000
+      internalID: 7195464077469833628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe80b3c2077d9750800000000000000
+      internalID: 6313333106400071359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db7d699791fdb770800000000000000
+      internalID: 8628318094528183250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900954c9cf1cb540800000000000000
+      internalID: 5024926235681685662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8462534358bd71b70800000000000000
+      internalID: 8869799356282512968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dba400ba23956530800000000000000
+      internalID: 3847643268208962519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bb1ab3bf33106d0800000000000000
+      internalID: -3026080320485999767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a07cb6b62d397700800000000000000
+      internalID: 538528866931339424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a953a1271f74c50800000000000000
+      internalID: 6649548847204112940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241c43b4e9d3acd20800000000000000
+      internalID: 3299517427078185282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d29dc71d600350800000000000000
+      internalID: 5980900254148645973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7babb6b309c503f0800000000000000
+      internalID: -935120329821672577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d592b308525aad0800000000000000
+      internalID: -2691703969605395151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8f41f85f5c483d0800000000000000
+      internalID: -3205219376322774835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d752b32216a3660800000000000000
+      internalID: 7366306940166962496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df71d2b50b927f00800000000000000
+      internalID: 1113122506691149785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c988c72182c4ee9d0800000000000000
+      internalID: -2743171388029499236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13149f79c88cf860800000000000000
+      internalID: 7565071873085805338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d416af38f5be10800000000000000
+      internalID: 2212947744175477840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d19a2c02b0e8bc0800000000000000
+      internalID: -3779070801984545491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcbe21ba5f422040800000000000000
+      internalID: 4621343418573831348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd2ddbfe581b260800000000000000
+      internalID: 7111612551323114730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae38f7d60caa9910800000000000000
+      internalID: 1844976142754791073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531ad6d5d00b24e30800000000000000
+      internalID: 4486341750262964533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b1d60ab658da10800000000000000
+      internalID: 1934391396933940277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa62edf3ea1ed7210800000000000000
+      internalID: 1332469203283617455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimShee_normal_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd03b28e81627f560800000000000000
+      internalID: 7347383205494468831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

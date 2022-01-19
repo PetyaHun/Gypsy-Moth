@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9014aee8aade1e74da6d989dd7390377, type: 3}
+  m_Name: Roug_data
+  m_EditorClassIdentifier: 
+  characterName: Roug
+  myTexture: {fileID: 2800000, guid: 3a584e9098a008f43bc508e88cd1e9f3, type: 3}
+  Description: Default

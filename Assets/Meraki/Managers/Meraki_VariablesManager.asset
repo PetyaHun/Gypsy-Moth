@@ -1,0 +1,194 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e62f4daee811464dbcf224bb5b367b4, type: 3}
+  m_Name: Meraki_VariablesManager
+  m_EditorClassIdentifier: 
+  vars:
+  - label: Surface
+    id: 0
+    type: 2
+    val: 0
+    floatVal: 0
+    textVal: wood
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: 'Surface varible for walk sounds '
+    showInFilter: 1
+  - label: sceneName
+    id: 1
+    type: 2
+    val: 0
+    floatVal: 0
+    textVal: x
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 0
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: Debug, name of the active scene
+    showInFilter: 1
+  - label: PM_01
+    id: 2
+    type: 2
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 884813679015672104, guid: 17c3375b94c2fd942bbb81898cae29ef,
+      type: 3}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: 
+    showInFilter: 1
+  - label: random text
+    id: 3
+    type: 1
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: Text randomizer. Can be fuck up conversation order.
+    showInFilter: 1
+  - label: Leroy pickUp
+    id: 4
+    type: 0
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: 
+    showInFilter: 1
+  - label: Examine
+    id: 6
+    type: 2
+    val: 0
+    floatVal: 0
+    textVal: 
+    gameObjectVal: {fileID: 0}
+    gameObjectSaveReferences: 1
+    objectVal: {fileID: 0}
+    popUps: []
+    vector3Val: {x: 0, y: 0, z: 0}
+    link: 0
+    pmVar: 
+    updateLinkOnStart: 0
+    canTranslate: 1
+    popUpID: 0
+    textValLineID: -1
+    popUpsLineID: -1
+    description: 
+    showInFilter: 1
+  varPresets:
+  - label: New preset
+    ID: 0
+    presetValues:
+    - id: 0
+      val: 0
+      floatVal: 0
+      textVal: wood
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
+    - id: 1
+      val: 0
+      floatVal: 0
+      textVal: x
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
+    - id: 2
+      val: 0
+      floatVal: 0
+      textVal: 
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 884813679015672104, guid: 17c3375b94c2fd942bbb81898cae29ef,
+        type: 3}
+      objectVal: {fileID: 0}
+    - id: 3
+      val: 0
+      floatVal: 0
+      textVal: 
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
+    - id: 4
+      val: 0
+      floatVal: 0
+      textVal: 
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
+    - id: 6
+      val: 0
+      floatVal: 0
+      textVal: 
+      vector3Val: {x: 0, y: 0, z: 0}
+      gameObjectVal: {fileID: 0}
+      objectVal: {fileID: 0}
+  updateRuntime: 1
+  popUpLabelData:
+  - editorLabel: New label set
+    id: 1
+    labels:
+    - EMPTY
+    - Who is the girl
+    - Escape from your home!
+    lineID: -1
+    canTranslate: 0
+  scrollPos: {x: 0, y: 0}

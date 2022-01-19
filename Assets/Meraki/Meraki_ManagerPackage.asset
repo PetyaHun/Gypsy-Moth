@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b4a24d0e4a28423fb3249b923d7e418, type: 3}
+  m_Name: Meraki_ManagerPackage
+  m_EditorClassIdentifier: 
+  actionsManager: {fileID: 11400000, guid: 638d668ea77125c488791941e848fba3, type: 2}
+  sceneManager: {fileID: 11400000, guid: 99584bfba93540449ad0759788633bff, type: 2}
+  settingsManager: {fileID: 11400000, guid: 5f94de902a8803a4f80fe84b679795bb, type: 2}
+  inventoryManager: {fileID: 11400000, guid: b479e15112172204cac0682d29da26ea, type: 2}
+  variablesManager: {fileID: 11400000, guid: 1d6d22114baf863469cc741d403e4bc1, type: 2}
+  speechManager: {fileID: 11400000, guid: 5797a2bd526839546b28e438cf192621, type: 2}
+  cursorManager: {fileID: 11400000, guid: 1aba577d872eddf4f8cb21979a875bb4, type: 2}
+  menuManager: {fileID: 11400000, guid: b1f65c0d4089ec14a8e653306dfd9546, type: 2}

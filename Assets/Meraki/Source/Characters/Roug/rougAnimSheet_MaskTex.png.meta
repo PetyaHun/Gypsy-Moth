@@ -1,0 +1,1832 @@
+fileFormatVersion: 2
+guid: e7028a85bee79b34da72cea8d3f3626b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6385439480496308825
+    second: rougAnimSheet_MaskTex_0
+  - first:
+      213: -6082687044594373499
+    second: rougAnimSheet_MaskTex_1
+  - first:
+      213: 3850694023266274941
+    second: rougAnimSheet_MaskTex_2
+  - first:
+      213: 1538455409588683317
+    second: rougAnimSheet_MaskTex_3
+  - first:
+      213: -6139872749331775665
+    second: rougAnimSheet_MaskTex_4
+  - first:
+      213: -3612793546513270536
+    second: rougAnimSheet_MaskTex_5
+  - first:
+      213: -529724165929007014
+    second: rougAnimSheet_MaskTex_6
+  - first:
+      213: 1128545625586897173
+    second: rougAnimSheet_MaskTex_7
+  - first:
+      213: -3210162492943913501
+    second: rougAnimSheet_MaskTex_8
+  - first:
+      213: 7874005309681107229
+    second: rougAnimSheet_MaskTex_9
+  - first:
+      213: 1780227888246641510
+    second: rougAnimSheet_MaskTex_10
+  - first:
+      213: -4454395210048302339
+    second: rougAnimSheet_MaskTex_11
+  - first:
+      213: -7189935328884973799
+    second: rougAnimSheet_MaskTex_12
+  - first:
+      213: 7901950479450065441
+    second: rougAnimSheet_MaskTex_13
+  - first:
+      213: -6765514505066106022
+    second: rougAnimSheet_MaskTex_14
+  - first:
+      213: -8661408636644317952
+    second: rougAnimSheet_MaskTex_15
+  - first:
+      213: -1752056855965257221
+    second: rougAnimSheet_MaskTex_16
+  - first:
+      213: 5208240550219938407
+    second: rougAnimSheet_MaskTex_17
+  - first:
+      213: 7079353383044652750
+    second: rougAnimSheet_MaskTex_18
+  - first:
+      213: -4103350776238154605
+    second: rougAnimSheet_MaskTex_19
+  - first:
+      213: -2188901610153230398
+    second: rougAnimSheet_MaskTex_20
+  - first:
+      213: 4978990763838925685
+    second: rougAnimSheet_MaskTex_21
+  - first:
+      213: 6087560299297573111
+    second: rougAnimSheet_MaskTex_22
+  - first:
+      213: -2553858822187268823
+    second: rougAnimSheet_MaskTex_23
+  - first:
+      213: 8281288656518744453
+    second: rougAnimSheet_MaskTex_24
+  - first:
+      213: -8310254448139235555
+    second: rougAnimSheet_MaskTex_25
+  - first:
+      213: 3248566552109334400
+    second: rougAnimSheet_MaskTex_26
+  - first:
+      213: 3226442674616068467
+    second: rougAnimSheet_MaskTex_27
+  - first:
+      213: -4444099991549697895
+    second: rougAnimSheet_MaskTex_28
+  - first:
+      213: 1889913656166574186
+    second: rougAnimSheet_MaskTex_29
+  - first:
+      213: -4427195381875835373
+    second: rougAnimSheet_MaskTex_30
+  - first:
+      213: -3318389565116173015
+    second: rougAnimSheet_MaskTex_31
+  - first:
+      213: -185568013151452214
+    second: rougAnimSheet_MaskTex_32
+  - first:
+      213: 7602582829629539156
+    second: rougAnimSheet_MaskTex_33
+  - first:
+      213: 8022942898592777777
+    second: rougAnimSheet_MaskTex_34
+  - first:
+      213: -2999007213019352315
+    second: rougAnimSheet_MaskTex_35
+  - first:
+      213: -8256232936940044534
+    second: rougAnimSheet_MaskTex_36
+  - first:
+      213: -7042534269484291642
+    second: rougAnimSheet_MaskTex_37
+  - first:
+      213: -2311592895696935723
+    second: rougAnimSheet_MaskTex_38
+  - first:
+      213: 6921321507250344357
+    second: rougAnimSheet_MaskTex_39
+  - first:
+      213: -3240885800398160434
+    second: rougAnimSheet_MaskTex_40
+  - first:
+      213: 2721049211552182565
+    second: rougAnimSheet_MaskTex_41
+  - first:
+      213: -4994180165749410298
+    second: rougAnimSheet_MaskTex_42
+  - first:
+      213: 7816115337110006408
+    second: rougAnimSheet_MaskTex_43
+  - first:
+      213: -7482234350065866894
+    second: rougAnimSheet_MaskTex_44
+  - first:
+      213: -5127434068250490320
+    second: rougAnimSheet_MaskTex_45
+  - first:
+      213: -6505283200680739325
+    second: rougAnimSheet_MaskTex_46
+  - first:
+      213: 4386095171893195727
+    second: rougAnimSheet_MaskTex_47
+  - first:
+      213: -4814086872637058933
+    second: rougAnimSheet_MaskTex_48
+  - first:
+      213: 8819386287126846428
+    second: rougAnimSheet_MaskTex_49
+  - first:
+      213: -6823860724750694481
+    second: rougAnimSheet_MaskTex_50
+  - first:
+      213: 6829785932520654720
+    second: rougAnimSheet_MaskTex_51
+  - first:
+      213: -6244696279323705338
+    second: rougAnimSheet_MaskTex_52
+  - first:
+      213: -3098441655472083648
+    second: rougAnimSheet_MaskTex_53
+  - first:
+      213: 7509927541301736769
+    second: rougAnimSheet_MaskTex_54
+  - first:
+      213: 9137117232481054860
+    second: rougAnimSheet_MaskTex_55
+  - first:
+      213: 3483685331868083706
+    second: rougAnimSheet_MaskTex_56
+  - first:
+      213: -1442526202242153122
+    second: rougAnimSheet_MaskTex_57
+  - first:
+      213: 1218254710545041840
+    second: rougAnimSheet_MaskTex_58
+  - first:
+      213: -9036095142541043557
+    second: rougAnimSheet_MaskTex_59
+  - first:
+      213: -1129396826925120962
+    second: rougAnimSheet_MaskTex_60
+  - first:
+      213: 6755270063207435830
+    second: rougAnimSheet_MaskTex_61
+  - first:
+      213: 8532508017460786674
+    second: rougAnimSheet_MaskTex_62
+  - first:
+      213: 2563984038895920196
+    second: rougAnimSheet_MaskTex_63
+  - first:
+      213: -3856942053091592331
+    second: rougAnimSheet_MaskTex_64
+  - first:
+      213: 5955040722104761897
+    second: rougAnimSheet_MaskTex_65
+  - first:
+      213: 7816588620264712292
+    second: rougAnimSheet_MaskTex_66
+  - first:
+      213: 2514822522026903846
+    second: rougAnimSheet_MaskTex_67
+  - first:
+      213: 4434427454123744873
+    second: rougAnimSheet_MaskTex_68
+  - first:
+      213: 6506145847725292957
+    second: rougAnimSheet_MaskTex_69
+  - first:
+      213: 4609614606979876138
+    second: rougAnimSheet_MaskTex_70
+  - first:
+      213: 4649047127746326908
+    second: rougAnimSheet_MaskTex_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952ccb14063ad9850800000000000000
+      internalID: 6385439480496308825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ce4134c54f59ba0800000000000000
+      internalID: -6082687044594373499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e8183ffc9607530800000000000000
+      internalID: 3850694023266274941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532cf4f3b01b95510800000000000000
+      internalID: 1538455409588683317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f7af1d34acacaa0800000000000000
+      internalID: -6139872749331775665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b04d2967ccddc0800000000000000
+      internalID: -3612793546513270536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a588cdc7daa06a8f0800000000000000
+      internalID: -529724165929007014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119de5644669af00800000000000000
+      internalID: 1128545625586897173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edabc888363373d0800000000000000
+      internalID: -3210162492943913501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1105136c16164d60800000000000000
+      internalID: 7874005309681107229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635f2215d3a4b810800000000000000
+      internalID: 1780227888246641510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 400
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29ed7282fce22c0800000000000000
+      internalID: -4454395210048302339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f97cb89e7383c90800000000000000
+      internalID: -7189935328884973799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4950481e59ad60800000000000000
+      internalID: 7901950479450065441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5338c227601c12a0800000000000000
+      internalID: -6765514505066106022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005a05e2cbe7cc780800000000000000
+      internalID: -8661408636644317952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf137e182917fa7e0800000000000000
+      internalID: -1752056855965257221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af4ac9f23674840800000000000000
+      internalID: 5208240550219938407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece16d3d46aee3260800000000000000
+      internalID: 7079353383044652750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5081a538fd07c0800000000000000
+      internalID: -4103350776238154605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf398635957f91e0800000000000000
+      internalID: -2188901610153230398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57be19a48bde81540800000000000000
+      internalID: 4978990763838925685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f80764c6db5b7450800000000000000
+      internalID: 6087560299297573111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 320
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c701aeeede8cd0800000000000000
+      internalID: -2553858822187268823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589854e282c0de270800000000000000
+      internalID: 8281288656518744453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f0d89eb9b0cac80800000000000000
+      internalID: -8310254448139235555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f31b7411a351d20800000000000000
+      internalID: 3248566552109334400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379e6a4a480a6cc20800000000000000
+      internalID: 3226442674616068467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9902d518a926352c0800000000000000
+      internalID: -4444099991549697895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68e7f305725a3a10800000000000000
+      internalID: 1889913656166574186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e7a08a1417f82c0800000000000000
+      internalID: -4427195381875835373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_31
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92533e8a546b2f1d0800000000000000
+      internalID: -3318389565116173015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ce6e00eabc6df0800000000000000
+      internalID: -185568013151452214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538d87adccc18960800000000000000
+      internalID: 7602582829629539156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1368dd31f08375f60800000000000000
+      internalID: 8022942898592777777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_35
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 240
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b52544d26166d0800000000000000
+      internalID: -2999007213019352315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ffec223e7fb6d80800000000000000
+      internalID: -8256232936940044534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9afd41564e34e90800000000000000
+      internalID: -7042534269484291642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4eaaa32829befd0800000000000000
+      internalID: -2311592895696935723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a19de77d397d0060800000000000000
+      internalID: 6921321507250344357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdf8a5198f0603d0800000000000000
+      internalID: -3240885800398160434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521bce657db13c520800000000000000
+      internalID: 2721049211552182565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606743c799b11bab0800000000000000
+      internalID: -4994180165749410298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aacefcc7b687c60800000000000000
+      internalID: 7816115337110006408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277291e4083c92890800000000000000
+      internalID: -7482234350065866894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_45
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a81b891e1b7d8b0800000000000000
+      internalID: -5127434068250490320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_46
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ebb1c356798b5a0800000000000000
+      internalID: -6505283200680739325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_47
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 160
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3ffbff15a8edc30800000000000000
+      internalID: 4386095171893195727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d896de7de03db0800000000000000
+      internalID: -4814086872637058933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb952dd911c46a70800000000000000
+      internalID: 8819386287126846428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ce7043d6cc41a0800000000000000
+      internalID: -6823860724750694481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_51
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0878adfae1648ce50800000000000000
+      internalID: 6829785932520654720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60005bcd1d16659a0800000000000000
+      internalID: -6244696279323705338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d20580bbf1005d0800000000000000
+      internalID: -3098441655472083648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145763c3f4f983860800000000000000
+      internalID: 7509927541301736769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_55
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80322166bf8dce70800000000000000
+      internalID: 9137117232481054860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af56c3b1a59885030800000000000000
+      internalID: 3483685331868083706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55c928df0e1bfbe0800000000000000
+      internalID: -1442526202242153122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_58
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9cbf3643c18e010800000000000000
+      internalID: 1218254710545041840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_59
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 80
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b985538d757599280800000000000000
+      internalID: -9036095142541043557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32cca8d1939350f0800000000000000
+      internalID: -1129396826925120962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e4f4fd45a8fbd50800000000000000
+      internalID: 6755270063207435830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f53cefa5de896670800000000000000
+      internalID: 8532508017460786674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444a92816e9159320800000000000000
+      internalID: 2563984038895920196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b53e33a3697ac0800000000000000
+      internalID: -3856942053091592331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_65
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e3a005cfd84a250800000000000000
+      internalID: 5955040722104761897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_66
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4682d32afe91a7c60800000000000000
+      internalID: 7816588620264712292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_67
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629c09a72c176e220800000000000000
+      internalID: 2514822522026903846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e194166404a8d30800000000000000
+      internalID: 4434427454123744873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d7c8e6d297a4a50800000000000000
+      internalID: 6506145847725292957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_70
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25cc70ff04a8ff30800000000000000
+      internalID: 4609614606979876138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rougAnimSheet_MaskTex_71
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71be512bbbb48040800000000000000
+      internalID: 4649047127746326908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
