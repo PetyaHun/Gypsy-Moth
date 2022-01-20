@@ -16,8 +16,8 @@ MonoBehaviour:
   uiCursorPrefab: {fileID: 0}
   cursorDisplay: 0
   allowMainCursor: 1
-  lockSystemCursor: 1
-  keepCursorWithinScreen: 1
+  lockSystemCursor: 0
+  keepCursorWithinScreen: 0
   confineSystemCursor: 0
   allowWalkCursor: 0
   addWalkPrefix: 0
@@ -252,4 +252,4 @@ MonoBehaviour:
   lookUseCursorAction: 0
   lookCursor_ID: 2
   hideCursorWhenDraggingMoveables: 1
-  forceCursorInEditor: 0
+  forceCursorInEditor: 1

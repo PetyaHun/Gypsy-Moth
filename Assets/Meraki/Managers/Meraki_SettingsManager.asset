@@ -125,7 +125,7 @@ MonoBehaviour:
   experimentalAccuracy: 0
   unityUIClicksAlwaysBlocks: 0
   pathfindUpdateFrequency: 0
-  verticalReductionFactor: 0.7
+  verticalReductionFactor: 0.3
   rotationsAffectedByVerticalReduction: 1
   jumpSpeed: 4
   singleTapStraight: 0

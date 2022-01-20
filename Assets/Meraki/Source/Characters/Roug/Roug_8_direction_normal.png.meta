@@ -1,0 +1,2988 @@
+fileFormatVersion: 2
+guid: 546c3efc31c769045ba391f9c105bbbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7267523827478897503
+    second: Roug_8_direction_normal_0
+  - first:
+      213: -1819109056017514040
+    second: Roug_8_direction_normal_1
+  - first:
+      213: 2974506670892939426
+    second: Roug_8_direction_normal_2
+  - first:
+      213: -3326142764797124184
+    second: Roug_8_direction_normal_3
+  - first:
+      213: -3486639785315821059
+    second: Roug_8_direction_normal_4
+  - first:
+      213: 7913278642257198604
+    second: Roug_8_direction_normal_5
+  - first:
+      213: 8726789398347757666
+    second: Roug_8_direction_normal_6
+  - first:
+      213: 6962133630735661549
+    second: Roug_8_direction_normal_7
+  - first:
+      213: 8296166110301589478
+    second: Roug_8_direction_normal_8
+  - first:
+      213: 6243532311556621645
+    second: Roug_8_direction_normal_9
+  - first:
+      213: -1937294194917832800
+    second: Roug_8_direction_normal_10
+  - first:
+      213: -267494653654975551
+    second: Roug_8_direction_normal_11
+  - first:
+      213: 4062372195376737449
+    second: Roug_8_direction_normal_12
+  - first:
+      213: -3903171680420888918
+    second: Roug_8_direction_normal_13
+  - first:
+      213: -1373878287227964853
+    second: Roug_8_direction_normal_14
+  - first:
+      213: -1345060982234019554
+    second: Roug_8_direction_normal_15
+  - first:
+      213: -6373141247185379329
+    second: Roug_8_direction_normal_16
+  - first:
+      213: 7181396660227341899
+    second: Roug_8_direction_normal_17
+  - first:
+      213: 7778709917536759658
+    second: Roug_8_direction_normal_18
+  - first:
+      213: 7235367131749731219
+    second: Roug_8_direction_normal_19
+  - first:
+      213: -2202463910323821750
+    second: Roug_8_direction_normal_20
+  - first:
+      213: 8862057733837318115
+    second: Roug_8_direction_normal_21
+  - first:
+      213: 7066507551768811063
+    second: Roug_8_direction_normal_22
+  - first:
+      213: -8698251632579479208
+    second: Roug_8_direction_normal_23
+  - first:
+      213: 4364167245770210933
+    second: Roug_8_direction_normal_24
+  - first:
+      213: 7356650902824691375
+    second: Roug_8_direction_normal_25
+  - first:
+      213: 99499480236045942
+    second: Roug_8_direction_normal_26
+  - first:
+      213: 3534716868123075156
+    second: Roug_8_direction_normal_27
+  - first:
+      213: 3463118161893578625
+    second: Roug_8_direction_normal_28
+  - first:
+      213: 3103840405490634224
+    second: Roug_8_direction_normal_29
+  - first:
+      213: 6457915104720196175
+    second: Roug_8_direction_normal_30
+  - first:
+      213: -2714515254285574719
+    second: Roug_8_direction_normal_31
+  - first:
+      213: -3491407507124201944
+    second: Roug_8_direction_normal_32
+  - first:
+      213: 4524632071719609265
+    second: Roug_8_direction_normal_33
+  - first:
+      213: 2455540739415128474
+    second: Roug_8_direction_normal_34
+  - first:
+      213: 9221628906934485724
+    second: Roug_8_direction_normal_35
+  - first:
+      213: -7242346150095478968
+    second: Roug_8_direction_normal_36
+  - first:
+      213: 7369945573096475929
+    second: Roug_8_direction_normal_37
+  - first:
+      213: -8665723255066582253
+    second: Roug_8_direction_normal_38
+  - first:
+      213: -3817732018299963439
+    second: Roug_8_direction_normal_39
+  - first:
+      213: 5636598718784627538
+    second: Roug_8_direction_normal_40
+  - first:
+      213: 4085342364172299791
+    second: Roug_8_direction_normal_41
+  - first:
+      213: 3089973869030010841
+    second: Roug_8_direction_normal_42
+  - first:
+      213: 4569486209190915118
+    second: Roug_8_direction_normal_43
+  - first:
+      213: -4025958695546303104
+    second: Roug_8_direction_normal_44
+  - first:
+      213: 3360819305550939541
+    second: Roug_8_direction_normal_45
+  - first:
+      213: 1878446404225530285
+    second: Roug_8_direction_normal_46
+  - first:
+      213: 1112601959307220100
+    second: Roug_8_direction_normal_47
+  - first:
+      213: -3624719693939870501
+    second: Roug_8_direction_normal_48
+  - first:
+      213: -7170982581679038162
+    second: Roug_8_direction_normal_49
+  - first:
+      213: 4287983770673806130
+    second: Roug_8_direction_normal_50
+  - first:
+      213: 5553982950775481737
+    second: Roug_8_direction_normal_51
+  - first:
+      213: 6789614969665116899
+    second: Roug_8_direction_normal_52
+  - first:
+      213: -2119546785766269628
+    second: Roug_8_direction_normal_53
+  - first:
+      213: 4876960402374788254
+    second: Roug_8_direction_normal_54
+  - first:
+      213: 185686187566782479
+    second: Roug_8_direction_normal_55
+  - first:
+      213: -5285987949053078263
+    second: Roug_8_direction_normal_56
+  - first:
+      213: -1295692900215150929
+    second: Roug_8_direction_normal_57
+  - first:
+      213: -257092261883396030
+    second: Roug_8_direction_normal_58
+  - first:
+      213: 3831783753849095632
+    second: Roug_8_direction_normal_59
+  - first:
+      213: 6292949409888613044
+    second: Roug_8_direction_normal_60
+  - first:
+      213: -541098091102202970
+    second: Roug_8_direction_normal_61
+  - first:
+      213: 8526395381297936948
+    second: Roug_8_direction_normal_62
+  - first:
+      213: -5393093142712578661
+    second: Roug_8_direction_normal_63
+  - first:
+      213: 269067590443917461
+    second: Roug_8_direction_normal_64
+  - first:
+      213: 7630122778009334091
+    second: Roug_8_direction_normal_65
+  - first:
+      213: -2157790035560104126
+    second: Roug_8_direction_normal_66
+  - first:
+      213: -1791892376169898045
+    second: Roug_8_direction_normal_67
+  - first:
+      213: 5389165022712506493
+    second: Roug_8_direction_normal_68
+  - first:
+      213: -6723388166976420249
+    second: Roug_8_direction_normal_69
+  - first:
+      213: -591922753471060176
+    second: Roug_8_direction_normal_70
+  - first:
+      213: -5088659341052445251
+    second: Roug_8_direction_normal_71
+  - first:
+      213: -4331116258884104039
+    second: Roug_8_direction_normal_72
+  - first:
+      213: 5420247191585918875
+    second: Roug_8_direction_normal_73
+  - first:
+      213: -746253466114080045
+    second: Roug_8_direction_normal_74
+  - first:
+      213: -4405367503654440958
+    second: Roug_8_direction_normal_75
+  - first:
+      213: 7287133918227546322
+    second: Roug_8_direction_normal_76
+  - first:
+      213: 2935130233871533634
+    second: Roug_8_direction_normal_77
+  - first:
+      213: 3329322481455799874
+    second: Roug_8_direction_normal_78
+  - first:
+      213: 1389001018692949694
+    second: Roug_8_direction_normal_79
+  - first:
+      213: -7200458416398813977
+    second: Roug_8_direction_normal_80
+  - first:
+      213: -4477439182044693147
+    second: Roug_8_direction_normal_81
+  - first:
+      213: -8175967031057095474
+    second: Roug_8_direction_normal_82
+  - first:
+      213: 918309115061028482
+    second: Roug_8_direction_normal_83
+  - first:
+      213: -8969329293050961141
+    second: Roug_8_direction_normal_84
+  - first:
+      213: 8391288567877986229
+    second: Roug_8_direction_normal_85
+  - first:
+      213: 4299162937856510874
+    second: Roug_8_direction_normal_86
+  - first:
+      213: -5855884629144903628
+    second: Roug_8_direction_normal_87
+  - first:
+      213: -8196564468991228063
+    second: Roug_8_direction_normal_88
+  - first:
+      213: -6690112874429300609
+    second: Roug_8_direction_normal_89
+  - first:
+      213: 3791251925354759744
+    second: Roug_8_direction_normal_90
+  - first:
+      213: 2955437252588494150
+    second: Roug_8_direction_normal_91
+  - first:
+      213: 8310616924074683496
+    second: Roug_8_direction_normal_92
+  - first:
+      213: -8479111950274334365
+    second: Roug_8_direction_normal_93
+  - first:
+      213: 2298922852264787247
+    second: Roug_8_direction_normal_94
+  - first:
+      213: -564910485706800535
+    second: Roug_8_direction_normal_95
+  - first:
+      213: -2641455348599937944
+    second: Roug_8_direction_normal_96
+  - first:
+      213: -257776032737181059
+    second: Roug_8_direction_normal_97
+  - first:
+      213: 408838074545553707
+    second: Roug_8_direction_normal_98
+  - first:
+      213: -6172197401727359145
+    second: Roug_8_direction_normal_99
+  - first:
+      213: 8219858557686617107
+    second: Roug_8_direction_normal_100
+  - first:
+      213: -7364922737321811791
+    second: Roug_8_direction_normal_101
+  - first:
+      213: 5046011969738170979
+    second: Roug_8_direction_normal_102
+  - first:
+      213: 4706200471884167311
+    second: Roug_8_direction_normal_103
+  - first:
+      213: -365645543259774666
+    second: Roug_8_direction_normal_104
+  - first:
+      213: -735977495657652127
+    second: Roug_8_direction_normal_105
+  - first:
+      213: 789741297231521731
+    second: Roug_8_direction_normal_106
+  - first:
+      213: 1299827902003157983
+    second: Roug_8_direction_normal_107
+  - first:
+      213: 7736214076158622922
+    second: Roug_8_direction_normal_108
+  - first:
+      213: 7944219947500861942
+    second: Roug_8_direction_normal_109
+  - first:
+      213: 479697976109782929
+    second: Roug_8_direction_normal_110
+  - first:
+      213: -1357025355311160031
+    second: Roug_8_direction_normal_111
+  - first:
+      213: -2219799429276191194
+    second: Roug_8_direction_normal_112
+  - first:
+      213: 7351675757181276681
+    second: Roug_8_direction_normal_113
+  - first:
+      213: -2974465691865682093
+    second: Roug_8_direction_normal_114
+  - first:
+      213: -5417310622118480954
+    second: Roug_8_direction_normal_115
+  - first:
+      213: 8908848765849291632
+    second: Roug_8_direction_normal_116
+  - first:
+      213: -7308887338690080085
+    second: Roug_8_direction_normal_117
+  - first:
+      213: 3798926322227703846
+    second: Roug_8_direction_normal_118
+  - first:
+      213: 7025231366288479752
+    second: Roug_8_direction_normal_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5321958a6e6bd460800000000000000
+      internalID: 7267523827478897503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1416c93f931c6e0800000000000000
+      internalID: -1819109056017514040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a87a9cbe02974920800000000000000
+      internalID: 2974506670892939426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1280037ca27d1d0800000000000000
+      internalID: -3326142764797124184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_4
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df991889697fc9fc0800000000000000
+      internalID: -3486639785315821059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0efc60bffc91dd60800000000000000
+      internalID: 7913278642257198604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_6
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b926a8b8cb1970800000000000000
+      internalID: 8726789398347757666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_7
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bcc276a77e9060800000000000000
+      internalID: 6962133630735661549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef09225f17e12370800000000000000
+      internalID: 8296166110301589478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_9
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458106ce8b75a650800000000000000
+      internalID: 6243532311556621645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_10
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a70f76a1395d15e0800000000000000
+      internalID: -1937294194917832800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_11
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb349d970ba94cf0800000000000000
+      internalID: -267494653654975551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_12
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acaad20df1706830800000000000000
+      internalID: 4062372195376737449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_13
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaef52b590625d9c0800000000000000
+      internalID: -3903171680420888918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_14
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1260
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42b7251af00fece0800000000000000
+      internalID: -1373878287227964853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1904b0c922655de0800000000000000
+      internalID: -1345060982234019554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff10225dcd0e87a0800000000000000
+      internalID: -6373141247185379329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ef60cb63279a360800000000000000
+      internalID: 7181396660227341899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_18
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f2695e47783fb60800000000000000
+      internalID: 7778709917536759658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bca7b5210396460800000000000000
+      internalID: 7235367131749731219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43e7822eb64f61e0800000000000000
+      internalID: -2202463910323821750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_21
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e760644e8a5cfa70800000000000000
+      internalID: 8862057733837318115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_22
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7369bc9ad27411260800000000000000
+      internalID: 7066507551768811063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_23
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8597329b93a994780800000000000000
+      internalID: -8698251632579479208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_24
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e3788dcf2a09c30800000000000000
+      internalID: 4364167245770210933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa62c67d403181660800000000000000
+      internalID: 7356650902824691375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_26
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763ec6004e716100800000000000000
+      internalID: 99499480236045942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_27
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452ae0a8346dd0130800000000000000
+      internalID: 3534716868123075156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_28
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187dedeae977f0030800000000000000
+      internalID: 3463118161893578625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_29
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 1080
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd06c8676e031b20800000000000000
+      internalID: 3103840405490634224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421a7e729f1f9950800000000000000
+      internalID: 6457915104720196175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cddde222ca145ad0800000000000000
+      internalID: -2714515254285574719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826dabbde570c8fc0800000000000000
+      internalID: -3491407507124201944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_33
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3ef2e85e8bace30800000000000000
+      internalID: 4524632071719609265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_34
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b650ea45d31220800000000000000
+      internalID: 2455540739415128474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_35
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2cd40f1aec9ff70800000000000000
+      internalID: 9221628906934485724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_36
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f142f4c840e7b90800000000000000
+      internalID: -7242346150095478968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_37
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc06a737e474660800000000000000
+      internalID: 7369945573096475929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3132aebcc9a2db780800000000000000
+      internalID: -8665723255066582253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_39
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d77891e4f0b40bc0800000000000000
+      internalID: -3817732018299963439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_40
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2536496bba8393e40800000000000000
+      internalID: 5636598718784627538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_41
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e28523c3d02b830800000000000000
+      internalID: 4085342364172299791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_42
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfe5ccccdac1ea20800000000000000
+      internalID: 3089973869030010841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_43
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ceed04f731a6f30800000000000000
+      internalID: 4569486209190915118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_44
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 900
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d419795ebe028c0800000000000000
+      internalID: -4025958695546303104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59583ad1a5704ae20800000000000000
+      internalID: 3360819305550939541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f87d5d05911a10800000000000000
+      internalID: 1878446404225530285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_47
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48419e05691c07f00800000000000000
+      internalID: 1112601959307220100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_48
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f95894a862bdc0800000000000000
+      internalID: -3624719693939870501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21e180e55d8b7c90800000000000000
+      internalID: -7170982581679038162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf6ad458af18b30800000000000000
+      internalID: 4287983770673806130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_51
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9856c854116b31d40800000000000000
+      internalID: 5553982950775481737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_52
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea509c87de893e50800000000000000
+      internalID: 6789614969665116899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d949d9d6bd592e0800000000000000
+      internalID: -2119546785766269628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_54
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94023f85a17ea340800000000000000
+      internalID: 4876960402374788254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_55
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f085d919a90b39200800000000000000
+      internalID: 185686187566782479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_56
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90512b977f564a6b0800000000000000
+      internalID: -5285987949053078263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_57
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa62ea01c26c40ee0800000000000000
+      internalID: -1295692900215150929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_58
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24040ff23ff9e6cf0800000000000000
+      internalID: -257092261883396030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_59
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 720
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c940c50b3d2530800000000000000
+      internalID: 3831783753849095632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b23ae5952c055750800000000000000
+      internalID: 6292949409888613044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3163b2722ad78f0800000000000000
+      internalID: -541098091102202970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_62
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7bccac67d35670800000000000000
+      internalID: 8526395381297936948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_63
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d850c4c52e725b0800000000000000
+      internalID: -5393093142712578661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590eaf44c8bebb300800000000000000
+      internalID: 269067590443917461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_65
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41fcdf8d34a3e960800000000000000
+      internalID: 7630122778009334091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_66
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fff86256dfd02e0800000000000000
+      internalID: -2157790035560104126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_67
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf99a2b06be127e0800000000000000
+      internalID: -1791892376169898045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_68
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d782dbef8092aca40800000000000000
+      internalID: 5389165022712506493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_69
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7664e4c851ab1b2a0800000000000000
+      internalID: -6723388166976420249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_70
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037e2e0546119c7f0800000000000000
+      internalID: -591922753471060176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_71
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd78994a437169b0800000000000000
+      internalID: -5088659341052445251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_72
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9905b44b5b8c4e3c0800000000000000
+      internalID: -4331116258884104039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_73
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f89416a16983b40800000000000000
+      internalID: 5420247191585918875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_74
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 540
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2cdd72d66c4a5f0800000000000000
+      internalID: -746253466114080045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b0a7989dfcd2c0800000000000000
+      internalID: -4405367503654440958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d047a290b9112560800000000000000
+      internalID: 7287133918227546322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460c6f856dabb820800000000000000
+      internalID: 2935130233871533634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_78
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e15e94821243e20800000000000000
+      internalID: 3329322481455799874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb659d73119b64310800000000000000
+      internalID: 1389001018692949694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_80
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4b39e4835d21c90800000000000000
+      internalID: -7200458416398813977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_81
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d7fc259c0fcd1c0800000000000000
+      internalID: -4477439182044693147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_82
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4698aad41298e80800000000000000
+      internalID: -8175967031057095474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_83
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2864735564d7ebc00800000000000000
+      internalID: 918309115061028482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_84
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03213e878a868380800000000000000
+      internalID: -8969329293050961141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_85
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7e9285e78d37470800000000000000
+      internalID: 8391288567877986229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_86
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b467ef9e1b9ab30800000000000000
+      internalID: 4299162937856510874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_87
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430e522a4f7bbbea0800000000000000
+      internalID: -5855884629144903628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_88
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167803fea04ff3e80800000000000000
+      internalID: -8196564468991228063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_89
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 360
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70cf5459c1f723a0800000000000000
+      internalID: -6690112874429300609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04649c80a8b3d9430800000000000000
+      internalID: 3791251925354759744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5e7cc582d30920800000000000000
+      internalID: 2955437252588494150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c22d79f0e355370800000000000000
+      internalID: 8310616924074683496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_93
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f0210b94245a80800000000000000
+      internalID: -8479111950274334365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_94
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d3547672a67ef10800000000000000
+      internalID: 2298922852264787247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_95
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628d8108e80928f0800000000000000
+      internalID: -564910485706800535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_96
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86425a00b5aa75bd0800000000000000
+      internalID: -2641455348599937944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_97
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72471160123c6cf0800000000000000
+      internalID: -257776032737181059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_98
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2141fb001c7ca500800000000000000
+      internalID: 408838074545553707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_99
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757a3723a23f75aa0800000000000000
+      internalID: -6172197401727359145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_100
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149ddabecdc21270800000000000000
+      internalID: 8219858557686617107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_101
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b06cbb9ac98ac990800000000000000
+      internalID: -7364922737321811791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_102
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ec9cc629070640800000000000000
+      internalID: 5046011969738170979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_103
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f887e680568cf4140800000000000000
+      internalID: 4706200471884167311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_104
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 180
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631eb40d057fceaf0800000000000000
+      internalID: -365645543259774666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160e4a8fd5849c5f0800000000000000
+      internalID: -735977495657652127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_106
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7e0fd8689b5fa00800000000000000
+      internalID: 789741297231521731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1a00179ae90210800000000000000
+      internalID: 1299827902003157983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accbfcbc6bd8c5b60800000000000000
+      internalID: 7736214076158622922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_109
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f97c54b3f98f3e60800000000000000
+      internalID: 7944219947500861942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_110
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1975f7984ca38a600800000000000000
+      internalID: 479697976109782929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_111
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125ea7111a0ea2de0800000000000000
+      internalID: -1357025355311160031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_112
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626b0691e20b131e0800000000000000
+      internalID: -2219799429276191194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_113
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90214aa7626660660800000000000000
+      internalID: 7351675757181276681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_114
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f62cf663398b6d0800000000000000
+      internalID: -2974465691865682093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_115
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c37daaf0b8d1d4b0800000000000000
+      internalID: -5417310622118480954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_116
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bcf1e50c692ab70800000000000000
+      internalID: 8908848765849291632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_117
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2170a80bd919a90800000000000000
+      internalID: -7308887338690080085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_118
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620734ccc5f78b430800000000000000
+      internalID: 3798926322227703846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_8_direction_normal_119
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 0
+        width: 144
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8069e84d4b2ae7160800000000000000
+      internalID: 7025231366288479752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
