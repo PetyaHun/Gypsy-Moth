@@ -39,15 +39,6 @@ MonoBehaviour:
   playerSwitching: 1
   player: {fileID: 884813679015672111, guid: 17c3375b94c2fd942bbb81898cae29ef, type: 3}
   players:
-  - playerOb: {fileID: 884813679015672111, guid: d86473789b7179a42addeea3664ac03b,
-      type: 3}
-    ID: 0
-    isDefault: 1
-    startingSceneIndex: 0
-    chooseSceneBy: 0
-    startingSceneName: 
-    useSceneDefaultPlayerStart: 1
-    startingPlayerStartID: 0
   - playerOb: {fileID: 884813679015672111, guid: 17c3375b94c2fd942bbb81898cae29ef,
       type: 3}
     ID: 1

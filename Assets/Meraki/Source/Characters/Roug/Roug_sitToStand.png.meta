@@ -1,43 +1,58 @@
 fileFormatVersion: 2
-guid: 04e01876160322e43bb391e2d4854ab4
+guid: 048f791d5a5c6e04f8e55b3a9ab4da94
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7945188783038076567
-    second: Roug_walk_30FPS_left_35F_MaskTex_0
+      213: -1813073795887366483
+    second: Roug_sitToStand_0
   - first:
-      213: 1363099281263258276
-    second: Roug_walk_30FPS_left_35F_MaskTex_1
+      213: 3355466660346219180
+    second: Roug_sitToStand_1
   - first:
-      213: 5510295257289021387
-    second: Roug_walk_30FPS_left_35F_MaskTex_2
+      213: -8053471367039142258
+    second: Roug_sitToStand_2
   - first:
-      213: -8086511245474006916
-    second: Roug_walk_30FPS_left_35F_MaskTex_3
+      213: -8226541552153012077
+    second: Roug_sitToStand_3
   - first:
-      213: 6094524094474622026
-    second: Roug_walk_30FPS_left_35F_MaskTex_4
+      213: -4010342648600194734
+    second: Roug_sitToStand_4
   - first:
-      213: 916349541518657927
-    second: Roug_walk_30FPS_left_35F_MaskTex_5
+      213: 3445325037568464629
+    second: Roug_sitToStand_5
   - first:
-      213: 6960471026970540520
-    second: Roug_walk_30FPS_left_35F_MaskTex_6
+      213: -8659579251583455574
+    second: Roug_sitToStand_6
   - first:
-      213: 1805834082073032949
-    second: Roug_walk_30FPS_left_35F_MaskTex_7
+      213: 1843986254244907209
+    second: Roug_sitToStand_7
   - first:
-      213: 2626778196686957399
-    second: Roug_walk_30FPS_left_35F_MaskTex_8
+      213: -6085499641942955847
+    second: Roug_sitToStand_8
   - first:
-      213: 2099735178640243240
-    second: Roug_walk_30FPS_left_35F_MaskTex_9
+      213: 7549793131078217421
+    second: Roug_sitToStand_9
   - first:
-      213: 5739850933984281206
-    second: Roug_walk_30FPS_left_35F_MaskTex_10
+      213: -198039355205235901
+    second: Roug_sitToStand_10
   - first:
-      213: -60697343333808084
-    second: Roug_walk_30FPS_left_35F_MaskTex_11
+      213: 3983404408859867203
+    second: Roug_sitToStand_11
+  - first:
+      213: -3159911458178494259
+    second: Roug_sitToStand_12
+  - first:
+      213: 755743802088531718
+    second: Roug_sitToStand_13
+  - first:
+      213: -3234561333823388552
+    second: Roug_sitToStand_14
+  - first:
+      213: -2702901017097261641
+    second: Roug_sitToStand_15
+  - first:
+      213: 2846443517756073916
+    second: Roug_sitToStand_16
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -59,6 +74,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -68,8 +84,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -90,9 +106,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -123,12 +142,348 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_0
+      name: Roug_sitToStand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae709c1dfaa6d6e0800000000000000
+      internalID: -1813073795887366483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa4a994623019e20800000000000000
+      internalID: 3355466660346219180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e863ad6f5725c3090800000000000000
+      internalID: -8053471367039142258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398dded5b0475dd80800000000000000
+      internalID: -8226541552153012077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251169adb966858c0800000000000000
+      internalID: -4010342648600194734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_5
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f617081ed040df20800000000000000
+      internalID: 3445325037568464629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_6
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae66051d8ef2d780800000000000000
+      internalID: -8659579251583455574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_7
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 360
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c888f67ab7279910800000000000000
+      internalID: 1843986254244907209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b829396156fb8ba0800000000000000
+      internalID: -6085499641942955847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcee9992ad046c860800000000000000
+      internalID: 7549793131078217421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bc175714c604df0800000000000000
+      internalID: -198039355205235901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34831d27435e74730800000000000000
+      internalID: 3983404408859867203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_12
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0959d454db524d0800000000000000
+      internalID: -3159911458178494259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607a0b0ebf0fc7a00800000000000000
+      internalID: 755743802088531718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_14
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8744e35ba978c13d0800000000000000
+      internalID: -3234561333823388552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_15
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 180
+        width: 142
+        height: 180
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd20e478dd5d7ad0800000000000000
+      internalID: -2702901017097261641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Roug_sitToStand_16
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 98
+        width: 142
         height: 180
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -137,239 +492,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 796176e4a1bf24e60800000000000000
-      internalID: 7945188783038076567
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_1
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4aa69450393bae210800000000000000
-      internalID: 1363099281263258276
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_2
-      rect:
-        serializedVersion: 2
-        x: 196
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bc75b3a7750887c40800000000000000
-      internalID: 5510295257289021387
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_3
-      rect:
-        serializedVersion: 2
-        x: 294
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c78f15dcdd0f6cf80800000000000000
-      internalID: -8086511245474006916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_4
-      rect:
-        serializedVersion: 2
-        x: 392
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a44183eaf59149450800000000000000
-      internalID: 6094524094474622026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_5
-      rect:
-        serializedVersion: 2
-        x: 490
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 789cf409d0787bc00800000000000000
-      internalID: 916349541518657927
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_6
-      rect:
-        serializedVersion: 2
-        x: 588
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8e93af7558f889060800000000000000
-      internalID: 6960471026970540520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_7
-      rect:
-        serializedVersion: 2
-        x: 686
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5f8b149a78c9f0910800000000000000
-      internalID: 1805834082073032949
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_8
-      rect:
-        serializedVersion: 2
-        x: 784
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 75b64454ad0347420800000000000000
-      internalID: 2626778196686957399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_9
-      rect:
-        serializedVersion: 2
-        x: 882
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 82a3e352502c32d10800000000000000
-      internalID: 2099735178640243240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_10
-      rect:
-        serializedVersion: 2
-        x: 980
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 672c3df630c08af40800000000000000
-      internalID: 5739850933984281206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Roug_walk_30FPS_left_35F_MaskTex_11
-      rect:
-        serializedVersion: 2
-        x: 1078
-        y: 0
-        width: 98
-        height: 180
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c2847cb761c582ff0800000000000000
-      internalID: -60697343333808084
+      spriteID: cb7601d5c49908720800000000000000
+      internalID: 2846443517756073916
       vertices: []
       indices: 
       edges: []
@@ -383,7 +507,9 @@ TextureImporter:
     indices: 
     edges: []
     weights: []
-    secondaryTextures: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: df811770dfe797440a14afa22103b4d4, type: 3}
+      name: _NormalMap
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
